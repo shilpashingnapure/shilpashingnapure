@@ -18,8 +18,8 @@
 - ⚡ Fun fact: ...
 -->
 
- Hi ,I'm shilpa shingnapure. I see my self in future as full stack web devloper. Till now I have learnt frontend , and I can make any kind of website with responsive..
- - 🌱 I’m currently learning backend ..
+ Hi ,I'm shilpa shingnapure. I see my self in future as full stack web devloper. Till now I have learnt frontend ..
+ - 🌱 And currently learning backend ..
 
   #### 🧰 Languages & Tools -:
  <div align="left">
