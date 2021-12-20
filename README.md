@@ -56,7 +56,7 @@
 <hr>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpashingnapure&layout=compact" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shilpashingnapure&show_icons=true&theme=radical" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpashingnapure&layout=compact"><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shilpashingnapure&show_icons=true&theme=radical">
 </div>
 
