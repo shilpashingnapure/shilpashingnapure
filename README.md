@@ -65,6 +65,7 @@ and always want to enhance my knowledge & adopt new technologies that make impac
  
   <h6><em>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
     </em></h6>
-</details>
-  <br>
-  </details>
+</details><img width="100%" height = "270em" src="https://kentsustainability.co.uk/wp-content/uploads/2019/08/KS-1.gif" alt="cover" />
+<footer>
+  
+</footer>
