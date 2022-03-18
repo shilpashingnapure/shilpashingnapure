@@ -4,7 +4,7 @@
 <!-- <img width="65%" height = "350px" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" alt="cover" /> -->
 </div>
 
-<h1> Hello Everyone < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Geeks < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 </p>
