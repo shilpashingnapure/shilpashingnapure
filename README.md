@@ -18,9 +18,8 @@ and always want to enhance my knowledge & adopt new technologies that make impac
 
 
 
-- 🌱 I’m currently learning React Native, Next.js 
-
-- 💬 Talk to me about Python, JavaScript, RestAPI, Node
+- 🌱 I’m currently learning React Native, Next.js
+- 💬 Talk to me about Python, JavaScript, RestAPI
 - 📫 How to reach me vds9828@gmail.com
 - 👨‍💻 All of my projects are available at [My Portfolio](http://shilpa17-shingnapure-portfolio.vercel.app/)
  
