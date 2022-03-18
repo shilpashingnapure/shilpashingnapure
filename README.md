@@ -1,5 +1,5 @@
 <div align="center">
-<img width="50%" height = "350px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="cover" />
+<img width="50%" height = "270px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="cover" />
 <!-- <img width="65%" height = "250px" src="https://c.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif" alt="cover" />   -->
 <!-- <img width="65%" height = "350px" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" alt="cover" /> -->
 </div>
