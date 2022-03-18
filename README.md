@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://fdlpl.org/sites/default/files/girls%20code%20camp%202018_art.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Everyone < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 </p>
