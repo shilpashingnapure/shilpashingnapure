@@ -48,6 +48,7 @@ and always want to enhance my knowledge & adopt new technologies that make impac
 <a href="https://www.hackerrank.com/shingnapureshil1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shingnapureshil1/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shingnapure_shilpa17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shingnapure_shilpa17/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shingnapureshilpa2/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shingnapureshilpa2/profile/" height="30" width="40" /></a>
+<a href = 'https://cssbattle.dev/player/shilpa17'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/69167064/159086421-721c547b-ff62-4744-913d-feda5bac605c.svg"/></a>
 
   <h6> </h6>
   
