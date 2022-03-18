@@ -16,9 +16,10 @@ and always want to enhance my knowledge & adopt new technologies that make impac
 
 
 
-- 🌱 I’m currently learning React Native, Next.js
-- 💬 Talk to me about Python, JavaScript, RestAPI
-- 📫 How to reach me vds9828@gmail.com
+- 🌱 I’m currently learning React Native, Next.js;
+- 💬 Talk to me about Python, JavaScript, RestAPI;
+- 📫 How to reach me vds9828@gmail.com;
+- 😄 Pronouns: Programmer/She/Her/Hers;
 - 👨‍💻 All of my projects are available at [My Portfolio](http://shilpa17-shingnapure-portfolio.vercel.app/)
  
  
@@ -60,6 +61,9 @@ and always want to enhance my knowledge & adopt new technologies that make impac
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpashingnapure" />
+ 
+  <h6><em>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+    </em></h6>
 </details>
   <br>
   </details>
