@@ -43,7 +43,12 @@ and always want to enhance my knowledge & adopt new technologies that make impac
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <a href = 'https://www.linkedin.com/in/shilpa-shingnapure'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://shilpa17-shingnapure-portfolio.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/shilpashingnapure'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/shilpashingnapure'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <a href="https://codepen.io/shilpashingnapure/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shilpashingnapure/" width="32px" /></a>
+<a href="https://www.hackerrank.com/shingnapureshil1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shingnapureshil1/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shingnapure_shilpa17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shingnapure_shilpa17/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shingnapureshilpa2/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shingnapureshilpa2/profile/" height="30" width="40" /></a>
+
   <h6> </h6>
   
 <h3>Projects and Dev Stuffs:</h3>
