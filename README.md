@@ -1,5 +1,6 @@
 <div align="center">
-<img width="50%" height = "275px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="cover" />
+<!-- <img width="50%" height = "250px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="cover" /> -->
+<img width="65%" height = "250px" src="https://c.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif" alt="cover" />  
 </div>
 
 <h1> Hello Everyone < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
