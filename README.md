@@ -62,6 +62,7 @@ and always want to enhance my knowledge & adopt new technologies that make impac
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpashingnapure" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shilpashingnapure" />
  
   <h6><em>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
     </em></h6>
