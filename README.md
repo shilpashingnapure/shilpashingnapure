@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://fdlpl.org/sites/default/files/girls%20code%20camp%202018_art.jpg" alt="cover" />
+<img width="50%" height = "275px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="cover" />
 </div>
 
 <h1> Hello Everyone < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
