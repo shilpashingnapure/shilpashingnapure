@@ -12,7 +12,7 @@ and always want to enhance my knowledge & adopt new technologies that make impac
 </div>
 
   
-<h2> About Me </h2><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2> About Me :)</h2><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
