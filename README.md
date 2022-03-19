@@ -47,7 +47,7 @@ and always want to enhance my knowledge & adopt new technologies that make impac
 
   <h6> </h6>
   
-<h3>Projects and Dev Stuffs:</h3>
+<h3>Projects and Dev Stuffs: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h3>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
