@@ -8,7 +8,7 @@
 </p>
 <div size='45px' <h3>  Hi There!,
 I am Shilpa, passionate full-stack web developer. I love to build websites/application that serves the world.
-  and always want to enhance my knowledge & adopt new technologies that make impact on people.</h3>:smile: 
+  and always want to enhance my knowledge & adopt new technologies that make impact on people.:smile: </h3> 
 </div>
 
   
