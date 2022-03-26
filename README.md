@@ -3,7 +3,7 @@
 </div>
 
 <h1> Hello Geeks < Developers/ >! <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 50px> </h1>
-<font size="4">   Hi There!,
+<font size="1">   Hi There!,
 I am Shilpa, passionate full-stack web developer. I love to build websites/application that serves the world.
   and always want to enhance my knowledge & adopt new technologies that make impact on people.</font> :smile:
 
