@@ -6,10 +6,11 @@
 <p align='center'>
 
 </p>
- <font size="6">Hi There!,
+ <h6>
+ Hi There!,
 I am Shilpa, passionate full-stack web developer. I love to build websites/application that serves the world.
   and always want to enhance my knowledge & adopt new technologies that make impact on people.:smile: 
-</font>
+  </h6>
 
   
 <h2> About Me :)</h2><img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69167064/159184413-e651f637-93fa-4ed5-bd3a-9c609cf2ac21.svg" />
