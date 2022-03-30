@@ -58,7 +58,8 @@ I am Shilpa, passionate full-stack web developer. I love to build websites/appli
     </em></h6>
  
 </details>
-  <img src="https://github-profile-trophy.vercel.app/?username=shilpashingnapure&ryo-ma&theme=oldie&margin-w=15&title=Stars,Repo,Commit,PR,Followers"/> 
+  
+  <img align="centre" src="https://github-profile-trophy.vercel.app/?username=shilpashingnapure&ryo-ma&no-frame=true&theme=oldie&margin-w=15&title=Issue,Stars,Repo,Commit,PR,Followers"/>
   <img width="100%" height = "270em" src="https://kentsustainability.co.uk/wp-content/uploads/2019/08/KS-1.gif" alt="cover" />
   
   
