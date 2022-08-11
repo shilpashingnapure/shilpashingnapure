@@ -1,5 +1,5 @@
 <div align="center">
-<img width="70%" height = "270px" src="https://user-images.githubusercontent.com/69167064/159184333-8db3c95f-5d46-4b52-883c-fb7ba658da99.gif" alt="cover" />
+<img width="70%" height = "5%" src="https://user-images.githubusercontent.com/69167064/159184333-8db3c95f-5d46-4b52-883c-fb7ba658da99.gif" alt="cover" />
 </div>
 <h1> Hello Geeks < Developers/ >!
 
