@@ -15,7 +15,7 @@ I am Shilpa, passionate full-stack web developer. I love to build websites/appli
 
 
 - 🌱 I’m currently learning Next.js;
-- 💬 Talk to me about Python, JavaScript, RestAPI;
+- 💬 Talk to me about Python, JavaScript;
 - 📫 How to reach me vds9828@gmail.com;
 - 😄 Pronouns: Programmer/She/Her/Hers;
 - 👨‍💻 All of my projects are available at [My Portfolio](http://shilpa17-shingnapure-portfolio.vercel.app/)
