@@ -18,7 +18,7 @@ I am Shilpa, passionate full-stack web developer. I love to build websites/appli
 - 💬 Talk to me about Python, JavaScript;
 - 📫 How to reach me vds9828@gmail.com;
 - 😄 Pronouns: Programmer/She/Her/Hers;
-- 👨‍💻 All of my projects are available at [My Portfolio](http://shilpa17-shingnapure-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shilpa-shingnapure-portfolio.vercel.app/)
  
  
 
